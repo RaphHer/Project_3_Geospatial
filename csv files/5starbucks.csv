@@ -1,0 +1,11 @@
+,name,latitude,longitude,type
+0,Starbucks,48.862715,2.334729,"{'typepoint': {'type': 'Point', 'coordinates': [48.862715, 2.334729]}}"
+1,Starbucks,48.863511,2.334179,"{'typepoint': {'type': 'Point', 'coordinates': [48.863511, 2.334179]}}"
+2,Starbucks,48.858843,2.348125,"{'typepoint': {'type': 'Point', 'coordinates': [48.858843, 2.348125]}}"
+3,Starbucks,48.861955,2.349581,"{'typepoint': {'type': 'Point', 'coordinates': [48.861955, 2.349581]}}"
+4,Starbucks,48.860461,2.350397,"{'typepoint': {'type': 'Point', 'coordinates': [48.860461, 2.350397]}}"
+5,Starbucks,48.867158,2.334067,"{'typepoint': {'type': 'Point', 'coordinates': [48.867158, 2.334067]}}"
+6,Starbucks,48.867251,2.347115,"{'typepoint': {'type': 'Point', 'coordinates': [48.867251, 2.347115]}}"
+7,Starbucks,48.850827,2.342663,"{'typepoint': {'type': 'Point', 'coordinates': [48.850827, 2.342663]}}"
+8,Starbucks,48.856832,2.354991,"{'typepoint': {'type': 'Point', 'coordinates': [48.856832, 2.354991]}}"
+9,Starbucks,48.870622,2.346923,"{'typepoint': {'type': 'Point', 'coordinates': [48.870622, 2.346923]}}"
