@@ -1,0 +1,11 @@
+,name,latitude,longitude,type
+0,Philippe Dubois,48.857999,2.299263,"{'typepoint': {'type': 'Point', 'coordinates': [48.857999, 2.299263]}}"
+1,Glam et Chien Paris,48.832552,2.316972,"{'typepoint': {'type': 'Point', 'coordinates': [48.832552, 2.316972]}}"
+2,Le Chien Beauté,48.866473,2.387336,"{'typepoint': {'type': 'Point', 'coordinates': [48.866473, 2.387336]}}"
+3,The Doggy Shop,48.886786,2.311367,"{'typepoint': {'type': 'Point', 'coordinates': [48.886786, 2.311367]}}"
+4,La Tour Câline,48.865403,2.285675,"{'typepoint': {'type': 'Point', 'coordinates': [48.865403, 2.285675]}}"
+5,Centre du Bien-Etre Animal,48.84564,2.287738,"{'typepoint': {'type': 'Point', 'coordinates': [48.84564, 2.287738]}}"
+6,Hollywood Dogs,48.874431,2.285965,"{'typepoint': {'type': 'Point', 'coordinates': [48.874431, 2.285965]}}"
+7,Bella Spa,48.857049,2.277633,"{'typepoint': {'type': 'Point', 'coordinates': [48.857049, 2.277633]}}"
+8,Au Confort du Chien,48.847241,2.399655,"{'typepoint': {'type': 'Point', 'coordinates': [48.847241, 2.399655]}}"
+9,Centre Canin,48.886104,2.394526,"{'typepoint': {'type': 'Point', 'coordinates': [48.886104, 2.394526]}}"
